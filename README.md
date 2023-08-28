@@ -1,6 +1,6 @@
 # FSI
 
-## Instalación y puesta en marcha de Calibre
+# Instalación y puesta en marcha de Calibre
 
 Ingresamos "Calibre" en el buscador.
 
@@ -55,7 +55,7 @@ Tenemos Calibre instalado y en condiciones de agregar títulos.
 ![](https://i.postimg.cc/wjGYvnTf/CAP-34.png)
 
 
-## Instalación y puesta en marcha de Obsidian
+# Instalación y puesta en marcha de Obsidian
 
 Vamos a nuestro buscador favorito y buscamos "Obsidian"
 
